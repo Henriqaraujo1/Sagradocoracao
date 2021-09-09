@@ -169,7 +169,7 @@ i {
 }
 
 #bg-confi {
-  background-image: url("/img/confessionario.png");
+  background-image: url('/img/confessionario.png');
   background-position: center;
   background-size: cover;
   height: 400px;
