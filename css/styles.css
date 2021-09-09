@@ -147,7 +147,7 @@ i {
 }
 
 #back-missa {
-  background-image: url("../img/missa.png");
+  background-image: url("/img/missa.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
