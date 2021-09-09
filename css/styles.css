@@ -43,7 +43,7 @@ section {
 }
 
 .back {
-  background-image: url(../img/home.jpg);
+  background-image: url("/img/home.jpg");
   background-size: cover;
   background-position: bottom;
   background-repeat: no-repeat;
@@ -147,7 +147,7 @@ i {
 }
 
 #back-missa {
-  background-image: url("../img/missa.png");
+  background-image: url("/img/missa.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
